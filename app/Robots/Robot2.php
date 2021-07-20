@@ -6,22 +6,22 @@ namespace App\Robots;
  * Class Robot1
  * @package App\Robots
  */
-class Robot1 extends RobotAbstract
+class Robot2 extends RobotAbstract
 {
     // Override abstract (default) attributes values
 
     /**
      * @var int
      */
-    protected $weight = 10;
+    protected $weight = 100;
 
     /**
      * @var int
      */
-    protected $speed = 20;
+    protected $speed = 200;
 
     /**
      * @var int
      */
-    protected $height = 5;
+    protected $height = 50;
 }

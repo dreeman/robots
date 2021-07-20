@@ -1,0 +1,5 @@
+.composer/
+.idea/
+docker/
+vendor/
+docker-compose.yml
